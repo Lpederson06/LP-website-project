@@ -1,0 +1,96 @@
+html {
+  background: url(img/Trinity_Detonation.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  color: white;
+  font-family: monospace;
+  margin-left: 50px;
+  margin: auto;
+}
+
+.outline {
+  background-color: rgba(55, 55, 55, 0.7);
+  border-radius: 20px;
+  width: 850px;
+}
+
+.titleOutline {
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin: auto;
+}
+
+.nav a {
+  margin: 0px 25px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline orangered;
+}
+
+.link {
+  color: white;
+  text-decoration: underline;
+}
+
+.title {
+  margin-left: 30px;
+}
+
+.quote {
+  font-size: 15px;
+  margin-left: 40px;
+}
+
+.quoteName {
+  margin-left: 60px;
+}
+
+.img {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.scores {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+}
+
+hr {
+  width: 650px;
+}
+
+p {
+  width: 650px;
+  margin: auto;
+  font-size: 15px;
+}
+
+button {
+  margin-bottom: 25px;
+  background-color: white;
+  border-radius: 20px;
+  font-family: monospace;
+  border: 0px;
+}
